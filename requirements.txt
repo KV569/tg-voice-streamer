@@ -2,4 +2,4 @@ pyrogram==2.0.106
 tgcrypto==1.2.5
 yt-dlp==2024.05.27
 ffmpeg-python==0.2.0
-git+https://github.com/pytgcalls/pytgcalls@0.0.15.dev1
+git+https://github.com/pytgcalls/pytgcalls@6c826b134674d7e05b580b07d57ccff68d22a21e
